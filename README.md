@@ -9,3 +9,5 @@ V1:
 
 V2:
 <a href="https://github.com/bextdev797/HermitCrab/releases/download/2/com.brandonang.hermitcrabview.aix">Download Version 2 Now!</a>
+
+<a href="https://youtu.be/vhrAsBvMCiw?si=Juk5l-MNgyGDLmP5">How to create Hermit Crab App</a>
